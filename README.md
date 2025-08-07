@@ -5,7 +5,7 @@
 #### VisualStudio 2023
 #### GitHub
 ### 実行ファイルのリンク
-#### [リンクはこちら](https://drive.google.com/drive/folders/1NbvJgtsTx6urMNHy8DPOl1SKSnfWrkQH?usp=sharing)
+#### [リンクはこちら](https://drive.google.com/drive/folders/18qF1bkyFQrk9zcdYKHZN_U17BZW1OZ5s?usp=drive_link)
 ### 概要
 #### パズルで獲得したスコアやリソースを用いて、キャラクターを育成し、冒険を進めていく新感覚のパズルRPGです。現在はパズルゲーム部分のみ完成しており、今後はパズルで獲得したスコアを使ってRPGパートに反映させていく予定です。
 ### 目的
